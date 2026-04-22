@@ -16,11 +16,11 @@ A comprehensive ERP solution designed to centralize and streamline business oper
 
 ### 📊 Dashboard & Financial Control
 *Overview of the main financial indicators and quick access to modules.*
-![Main Dashboard](./screenshots/dashboard.png)
+![Main Dashboard](./screenshots/EntidadesPage.png)
 
 ### 📧 Email & Communication Engine
 *Integrated email client allowing multi-account management and direct association of emails to entities (clients/suppliers).*
-![Email Module](./screenshots/email.png)
+![Email Module](./screenshots/emailsPage.png)
 
 ### 📁 Project & Document Management
 *Control of Service Orders (OS), Proposals, and Adjudications with integrated document management.*
